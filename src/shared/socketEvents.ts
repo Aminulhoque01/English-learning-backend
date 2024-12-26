@@ -1,0 +1,3 @@
+export const SOCKET_EVENTS = {
+  NEW_NOTIFICATION: 'NEW_NOTIFICATION',
+};
